@@ -180,8 +180,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ### GitHub Repository
 https://github.com/abadum/Project-Build-an-ML-Pipeline-Starter
 
-### GitHub Release
-https://github.com/abadum/Project-Build-an-ML-Pipeline-Starter/tag/1.0.0
+### GitHub Release (v1.0.1)
+https://github.com/abadum/Project-Build-an-ML-Pipeline-Starter/tag/1.0.1
 
 ### Weights and Biases Project
 https://wandb.ai/badumalex92/nyc_airbnb?nw=nwuserbadumalex
